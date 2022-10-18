@@ -35,7 +35,7 @@ const serverlessConfiguration: AWS = {
       DBPORT: '5432',
       DBNAME:'studentdb',
       DBUSERNAME:'postgres',
-      DBPASSWORD : '12345678',
+      DBPASSWORD : '',
       DBSCHEMA: 'public',
       
 
